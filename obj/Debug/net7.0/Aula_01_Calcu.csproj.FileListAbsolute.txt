@@ -1,0 +1,14 @@
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\bin\Debug\net7.0\Aula_01_Calcu.exe
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\bin\Debug\net7.0\Aula_01_Calcu.deps.json
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\bin\Debug\net7.0\Aula_01_Calcu.runtimeconfig.json
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\bin\Debug\net7.0\Aula_01_Calcu.dll
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\bin\Debug\net7.0\Aula_01_Calcu.pdb
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.AssemblyInfoInputs.cache
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.AssemblyInfo.cs
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.dll
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\refint\Aula_01_Calcu.dll
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.pdb
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\Aula_01_Calcu.genruntimeconfig.cache
+C:\Users\diogo\Documents\C# VSC22\Aula_01_Calcu\obj\Debug\net7.0\ref\Aula_01_Calcu.dll
